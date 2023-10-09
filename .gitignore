@@ -1,4 +1,4 @@
-bin/*
+bin/!
 build/*
 *.a
 *.o
@@ -28,3 +28,4 @@ BuildLog*
 *.idb
 *.dep
 
+!
